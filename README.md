@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JerryKalambu
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning software engineering
+- 🧑‍🎓 I’m currently learning software engineering and Networking and Python
 - 💞️ I’m looking to collaborate on software engineering 
+- 🤔 I’m currently open for: An Intern or a new job opportunity
 - 📫 How to reach me @JerryKalambu
 
 <!---
